@@ -6,41 +6,50 @@
 
 ---
 
-- Born in `Alexhandria (?)`
+- Born in the town of Khaimoll (Alexhandriya), the capital of farmers and useful information or so they say.
 - Talented even amongst other Vedalken
 - Natural ability for languages
 - Carefree and generally protected childhood
 - Loner type, spending time studying and reading about the history of the world
-- `Has read all the books in his city by the age of 16 (?)`
-- One book in particular appears to be missing it's ending, he can't get it out of his mind. The book writes about `ancient evil (?)`
+- Has read all the books in his town by the age of 16, has a gold membership card at all 3 local libraries and learns the ancient language of Xabrion.
+- One book in particular appears to be missing it's ending, he can't get it out of his mind. The book writes about an "ancient evil" 700 years ago.
 - Starts researching about the missing information, asking other people about it, the usual answer being *Don't dweel on these things, its just stories to scare children*
-- Strange, wrapped in shadows person, contacts him over his research of the said book, sends him on a trail of clues that lead to a `dark forest (?)` outside the city
-- missing for few days, probably too wrapped in search to even notice the days passing by or an `effect of the forest(?)` itself
+- Strange, wrapped in shadows person, contacts him over his research of the said book, sends him on a trail of clues that lead him deep within Rinhol Forest, outside the town. A forest where time seems off and strage creatures of fey origin tend to lurk
+- missing for few days, probably too wrapped in search to even notice the days passing by thanks to the illusionary effect of the enchanted forest itself
 - mother gets worried - starts searching
 - same person contacts her as well, sends her to the forest
 - mother finally finds him, leads him out of the forest
 - sunset at the horizon
 - shadowy creature can be seen in the distance
-- `Mother appears to know what it is (?)` tells him to run away and not look back
+- Mother refers to it as "Corpus Cursed" and tells him to run away and not look back
 - What happens with the mother is unknown but she is never to be seen again and so is the beast
-- No one in the city believes the story, they pass it as an `accident(?)`
+- No one in the city believes the story, they pass it as an accident and later on people completely forget about her, like she never existed.
+- Turns out, its an effect of the forest. Anything that dies or goes missing within it, a few days later is forgoten.
 - Character feels strong emotions for the first time, mainly anger towards his own people for not believing him and refusing to help
 - He tries to find the person that led him to forest in first place but is unsuccessful in doing so
-- Leaves home city in search for clues, spends the next 240 years or so learning about various things: science, history, engineering etc `Artificer(?)` but no clues of the beast or what happened to his mother
-- Learns about powerful `artifact/runes(?)` located in Dolen Izmet
+- Leaves home town in search for clues, spends the next 240 years or so learning about various things: science, history, engineering and eventualy follows the path of an Artificer, but no clues of the beast or what happened to his mother
+- Learns about powerful ancient ruins of a city located in Dolen Izmet called "Alduin" and buried within, priceless artifacts and information
 - Uppon arrival in Dolen Izmet searches for the biggest place of knowledge 
 - Find the Von Zell Dojo archives
-- `timespan(?)`
-- Manages to find a `job(?)` there
-- `timespan(?)`
-- Volunteers for a dangerous mission to Brotil island
-- `mission details(?)`
+- Spends a year within their ranks
+- Manages to land a job as a "informant" there
+- And spends another 2 years to gain the trust of the council and being made an "Expositor"
+- Volunteers for a dangerous mission to Brotir island
+- On his way to the island, almost dies in a boat crash
+- Finds an abandoned temple of Bahamut, the platinium dragon and information writen in Xabrion which tells about a powerful curse
+- A curse created by the demigod Kaiboh, long ago he used this curse to turn 4 people into beasts and monsters of awesome power
+- Using them in a war effort about 700 years ago (ties in with the missing page book) against a primordial monster called Vendetta
+- He also learns of 3 powerful swords that helped vanquish this enemy, wielded by 3 legendary heroes
+- While reading, he discoveres an ancient artifact in the form of a dragon bone, shaped like a necklace
 - Meets a kitsune on his way back to the city `(details TBD)`
-- `timespan(?)`
+- They travel together for about 2 months
 - gets rewarded with Ring of Protection for a successful mission and important findings and is promoted to an official archivist.
-- `timespan(?)`
-- tries to use his newly acquired position to access information under tight security but gets denied `reasons(?)`
-- `Charlie(don't remember name) and Seven interactions(?)`
+- over the corse of 2 weeks
+- tries to use his newly acquired position to access information under tight security but gets denied doe to restriction from the council
+- Charlie Von Zell and Seven try to help him, but to no avail
+- Charlie is a known investigator and archivist, she specializes in both arcane and martial means of combat and has a reputation in the underground world of thieves and criminals, helping to bring most of them to justice.
+- While Seven is a candidate of succession for the Von Zell Dojo in the city of Tomijeri, she is one of the strongest members of the archives and tends to lean more on ancient history and its preservation
 - has to go behind the dojo's back to find more information
 - learns about a big boss guy by the name of Drisko who deals in transfer of ancient artifacts/runes and decides to investigate him
-- `travels the dris tavern/recieves a letter from Drisko himself(?)`
+- but before he manages to find anything else on Drisko, he receives a letter adressed to him by said Drisko
+- inviting him to his "office" and claming he has work for a man such as him
